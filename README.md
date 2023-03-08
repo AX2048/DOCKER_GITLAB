@@ -1,3 +1,5 @@
+![](dk_gitlab.png)
+
 ## DOCKER GITLAB
 
 https://mcs.mail.ru/docs/additionals/cases/cases-gitlab/case-gitlab
